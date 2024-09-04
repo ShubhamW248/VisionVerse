@@ -10,7 +10,7 @@ Welcome to the Image Processing and Captioning App! This app provides several po
 
 ### 2. **DeepDream Generation**
    - **Description:** Generates hallucinogenic, dream-like images by applying the DeepDream algorithm. This feature enhances patterns and textures in your images to create surreal and abstract visuals.
-   - **Detailed Explanation:** [Read More](README_DeepDream.md)
+   - **Detailed Explanation:** [Read More](README_DeepDream_Generation.md)
 
 ### 3. **Image Captioning**
    - **Description:** Automatically generates descriptive captions for your images using a pre-trained model. This feature provides textual descriptions of the visual content in your images.
