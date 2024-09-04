@@ -1,4 +1,4 @@
-# Image Processing and Captioning App
+# Image Processing and Captioning App - VisionVerse
 
 Welcome to the Image Processing and Captioning App! This app provides several powerful features for image manipulation and analysis. Below is a brief overview of each feature, along with links to detailed explanations.
 
